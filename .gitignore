@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+dist/
+.env*
+*.log
+
+# Publication is blocked until provenance is confirmed or assets are replaced.
+/left.png
+/right.png
